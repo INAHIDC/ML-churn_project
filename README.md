@@ -2,7 +2,8 @@
 
 Customer Churn Prediction project, Shows whether a customer will churn (stop doing business with the company) based on their demographic, account, and service usage information.
 
-![ Churn Image ] ![correlation_matrix png](https://github.com/user-attachments/assets/648b0b28-b40d-472a-a47d-e1f84d7da6b9)
+![ Churn Image ] ![churn_distribution png](https://github.com/user-attachments/assets/6d774eb1-ee21-44c1-a88d-59e74b015cd5)
+
 
 
 
