@@ -2,7 +2,8 @@
 
 Customer Churn Prediction project, Shows whether a customer will churn (stop doing business with the company) based on their demographic, account, and service usage information.
 
-![ Churn Image ](./images/telco_churn_image.jpg)
+![ Churn Image ][churn_distribution png](https://github.com/user-attachments/assets/9cd2fc07-5431-40de-aab6-0342fac17eef)
+
 
 ---
 
@@ -107,7 +108,8 @@ Understanding the data is important before going into modeling.
 
 We start by examining the distribution of the target variable.
 
-![Churn Distribution](./images/churn_distribution.png)
+![Churn Distribution] ![churn_distribution png](https://github.com/user-attachments/assets/62854ba5-f933-4fd0-9fa9-7a3723d8e30c)
+
 
 - **Observation**: The dataset is imbalanced, with a higher number of customers who did not churn.
 
@@ -115,7 +117,8 @@ We start by examining the distribution of the target variable.
 
 We plotted histograms for numerical features like `tenure`, `MonthlyCharges`, and `TotalCharges`.
 
-![Numerical Distributions](./images/numerical_distributions.png)
+![Numerical Distributions] ![numerical_distributions png](https://github.com/user-attachments/assets/28894f66-9967-4858-9497-21e8b643ed0e)
+
 
 - **Observation**: 
   - **Tenure**: lots of customers are either new or have been with the company for a long time.
@@ -126,7 +129,8 @@ We plotted histograms for numerical features like `tenure`, `MonthlyCharges`, an
 
 analyzed correlations between numerical variables.
 
-![Correlation Matrix](./images/correlation_matrix.png)
+![Correlation Matrix]![correlation_matrix png](https://github.com/user-attachments/assets/2346a9f0-5261-42f5-994d-1791a9ac54d4)
+
 
 - **Observation**:  correlation between `TotalCharges` and `tenure`, which makes sense as longer tenure typically results in higher total charges.
 
