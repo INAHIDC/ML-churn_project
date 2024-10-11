@@ -13,7 +13,7 @@ Customer Churn Prediction project, Shows whether a customer will churn (stop doi
 
 1. [Introduction](#introduction)
 2. [Dataset Overview](#dataset)
-3. Project Structure
+3. [Project Structure](#file-tree)
 4. [Installation](#file-tree)
 5. [Data Analysis (EDA)](#Analysis)
 6. [Preprocessing](#data-preprocessing)
