@@ -47,7 +47,7 @@ The dataset contains information about a fictional tele communication company's 
 ## file tree
 
 ```
-churn_prediction_project/
+ML-churn/
 ├── data/
 │   └── telco_churn.csv
 ├── images/
@@ -82,13 +82,13 @@ churn_prediction_project/
 1. **clone the repo**
 
    ```bash
-   git clone https://github.com/INAHIDC/ML-churn_project.git
-   cd churn_prediction_project
+   git clone https://github.com/INAHIDC/ML-churn.git
+   cd ML-churn
    ```
 
 2. **Dependencies** ;skip if you have it already
 
-   i didnt use a virtual env for this but its recommended!
+  make sure to use a venv for this!!!!!!!!
 
    ```bash
    pip install -r requirements.txt
