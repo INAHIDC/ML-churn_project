@@ -1,6 +1,7 @@
-# Telco CX Churn 
+#CS4089 ProJect
 
-Customer Churn Prediction project, Shows whether a customer will churn (stop doing business with the company) based on their demographic, account, and service usage information.
+Churn Prediction project
+Professor : Dr. Schwartzman
 
 ![churn_distribution png](https://github.com/user-attachments/assets/6d774eb1-ee21-44c1-a88d-59e74b015cd5)
 
