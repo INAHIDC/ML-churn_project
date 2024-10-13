@@ -1,7 +1,7 @@
 ## CS4089 ProJect
 
-Churn Prediction project
-Professor : Dr. Schwartzman
+# Churn Prediction project
+# Professor : Dr. Schwartzman
 
 ![churn_distribution png](https://github.com/user-attachments/assets/6d774eb1-ee21-44c1-a88d-59e74b015cd5)
 
