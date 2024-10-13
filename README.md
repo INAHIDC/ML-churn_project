@@ -1,4 +1,4 @@
-# Telco CX Churn Prediction Project
+# Telco CX Churn 
 
 Customer Churn Prediction project, Shows whether a customer will churn (stop doing business with the company) based on their demographic, account, and service usage information.
 
